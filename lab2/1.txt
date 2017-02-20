@@ -1,0 +1,98 @@
+link:
+/etc/hosts	hosts
+inum:
+291
+readlink:
+291
+link:
+hosts_copy	testhostslink
+inum:
+293
+readlink:
+293
+readlink:
+293
+link:
+/etc/hosts	hosts
+inum:
+290
+readlink:
+290
+link:
+hosts_copy	testhostslink
+inum:
+292
+readlink:
+292
+readlink:
+292
+link:
+/etc/hosts	hosts
+inum:
+284
+readlink:
+284
+link:
+hosts_copy	testhostslink
+inum:
+286
+readlink:
+286
+readlink:
+286
+link:
+/etc/hosts	hosts
+inum:
+289
+readlink:
+289
+link:
+hosts_copy	testhostslink
+inum:
+291
+readlink:
+291
+readlink:
+291
+link:
+/etc/hosts	hosts
+inum:
+2
+readlink:
+2
+link:
+hosts_copy	testhostslink
+inum:
+4
+readlink:
+4
+readlink:
+4
+link:
+/etc/hosts	hosts
+inum:
+2
+readlink:
+2
+link:
+hosts_copy	testhostslink
+inum:
+4
+readlink:
+4
+readlink:
+4
+link:
+/etc/hosts	hosts
+inum:
+296
+readlink:
+296
+link:
+hosts_copy	testhostslink
+inum:
+298
+readlink:
+298
+readlink:
+298

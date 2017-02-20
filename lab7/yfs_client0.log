@@ -1,0 +1,272 @@
+FUSE library version: 2.9.7
+unique: 1, opcode: INIT (26), nodeid: 0, insize: 56, pid: 0
+INIT: 7.23
+flags=0x0003f7fb
+max_readahead=0x00020000
+   INIT: 7.19
+   flags=0x00000000
+   max_readahead=0x00020000
+   max_write=0x00020000
+   max_background=0
+   congestion_threshold=0
+   unique: 1, success, outsize: 40
+unique: 2, opcode: ACCESS (34), nodeid: 1, insize: 48, pid: 1623
+   unique: 2, error: -38 (Function not implemented), outsize: 16
+unique: 3, opcode: LOOKUP (1), nodeid: 1, insize: 47, pid: 1623
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 3, error: -2 (No such file or directory), outsize: 16
+unique: 4, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 4, success, outsize: 32
+unique: 5, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 5, success, outsize: 16
+unique: 6, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 6, success, outsize: 16
+unique: 7, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 7, success, outsize: 32
+unique: 8, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 8, success, outsize: 16
+unique: 9, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 9, success, outsize: 16
+unique: 10, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 10, success, outsize: 32
+unique: 11, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 11, success, outsize: 16
+unique: 12, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 12, success, outsize: 16
+unique: 13, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 13, success, outsize: 32
+unique: 14, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 14, success, outsize: 16
+unique: 15, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 15, success, outsize: 16
+unique: 16, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 16, success, outsize: 32
+unique: 17, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 17, success, outsize: 16
+unique: 18, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 18, success, outsize: 16
+unique: 19, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 19, success, outsize: 32
+unique: 20, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 20, success, outsize: 16
+unique: 21, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 21, success, outsize: 16
+unique: 22, opcode: LOOKUP (1), nodeid: 1, insize: 57, pid: 2504
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 22, error: -2 (No such file or directory), outsize: 16
+unique: 23, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 23, success, outsize: 32
+unique: 24, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 24, success, outsize: 16
+unique: 25, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 25, success, outsize: 16
+unique: 26, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 26, success, outsize: 32
+unique: 27, opcode: LOOKUP (1), nodeid: 1, insize: 52, pid: 2503
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 27, error: -2 (No such file or directory), outsize: 16
+unique: 28, opcode: LOOKUP (1), nodeid: 1, insize: 52, pid: 1623
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 28, error: -2 (No such file or directory), outsize: 16
+unique: 29, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 29, success, outsize: 16
+unique: 30, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 30, success, outsize: 16
+unique: 31, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 31, success, outsize: 32
+unique: 32, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 32, success, outsize: 16
+unique: 33, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 33, success, outsize: 16
+unique: 34, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 34, success, outsize: 32
+unique: 35, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 35, success, outsize: 16
+unique: 36, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 36, success, outsize: 16
+unique: 37, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 37, success, outsize: 32
+unique: 38, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 38, success, outsize: 16
+unique: 39, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 39, success, outsize: 16
+unique: 40, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 40, success, outsize: 32
+unique: 41, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 41, success, outsize: 16
+unique: 42, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 42, success, outsize: 16
+unique: 43, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 43, success, outsize: 32
+unique: 44, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 44, success, outsize: 16
+unique: 45, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 45, success, outsize: 16
+unique: 46, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 46, success, outsize: 32
+unique: 47, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 47, success, outsize: 16
+unique: 48, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 48, success, outsize: 16
+unique: 49, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 49, success, outsize: 32
+unique: 50, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 50, success, outsize: 16
+unique: 51, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 51, success, outsize: 16
+unique: 52, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 52, success, outsize: 32
+unique: 53, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 53, success, outsize: 16
+unique: 54, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 54, success, outsize: 16
+unique: 55, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 55, success, outsize: 32
+unique: 56, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 56, success, outsize: 16
+unique: 57, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 57, success, outsize: 16
+unique: 58, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 58, success, outsize: 32
+unique: 59, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 59, success, outsize: 16
+unique: 60, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 60, success, outsize: 16
+unique: 61, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 61, success, outsize: 32
+unique: 62, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 62, success, outsize: 16
+unique: 63, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 63, success, outsize: 16
+unique: 64, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 64, success, outsize: 32
+unique: 65, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 65, success, outsize: 16
+unique: 66, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 66, success, outsize: 16
+unique: 67, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 67, success, outsize: 32
+unique: 68, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 68, success, outsize: 16
+unique: 69, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 69, success, outsize: 16
+unique: 70, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 1580
+   unique: 70, success, outsize: 32
+unique: 71, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 1580
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 71, success, outsize: 16
+unique: 72, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 72, success, outsize: 16
+unique: 73, opcode: OPENDIR (27), nodeid: 1, insize: 48, pid: 2504
+   unique: 73, success, outsize: 32
+unique: 74, opcode: READDIR (28), nodeid: 1, insize: 80, pid: 2504
+fuseserver_readdir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0   unique: 74, success, outsize: 16
+unique: 75, opcode: RELEASEDIR (29), nodeid: 1, insize: 64, pid: 0
+   unique: 75, success, outsize: 16
+unique: 76, opcode: LOOKUP (1), nodeid: 1, insize: 46, pid: 2613
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0isdir: 1 is a dir
+extent_client_get 1 777 0 0extent_client_get 2 777 1003 1003isfile: 2 is not a file
+extent_client_get 2 777 1003 1003isdir: 2 is a dir
+getdir 0000000000000002
+extent_client_get 2 777 1003 1003   getattr -> 1487594470 1487594527 1487594527
+   unique: 76, success, outsize: 144
+unique: 77, opcode: LOOKUP (1), nodeid: 2, insize: 43, pid: 2613
+extent_client_get 2 777 1003 1003isdir: 2 is a dir
+extent_client_get 2 777 1003 1003isdir: 2 is a dir
+extent_client_get 2 777 1003 1003extent_client_get 23 642 1003 1003isfile: 23 is a file
+getfile 0000000000000017
+extent_client_get 23 642 1003 1003getfile 0000000000000017 -> sz 0
+   getattr -> 0
+   unique: 77, success, outsize: 144
+unique: 78, opcode: GETXATTR (22), nodeid: 23, insize: 68, pid: 2613
+   unique: 78, error: -38 (Function not implemented), outsize: 16
+unique: 79, opcode: SETATTR (4), nodeid: 23, insize: 128, pid: 2613
+fuseserver_setattr 0x6
+attr->mode 0
+attr->u_id 1004
+attr->g_id 1005
+extent_client_get 23 642 1003 1003
+
+setattr bug642 1004 1005
+
+extent_client_get 23 642 1004 1005isfile: 23 is a file
+getfile 0000000000000017
+extent_client_get 23 642 1004 1005getfile 0000000000000017 -> sz 0
+   getattr -> 0
+   unique: 79, success, outsize: 120
+unique: 80, opcode: FORGET (2), nodeid: 23, insize: 48, pid: 0
+unique: 81, opcode: FORGET (2), nodeid: 2, insize: 48, pid: 0
+unique: 82, opcode: FORGET (2), nodeid: 1, insize: 48, pid: 0
